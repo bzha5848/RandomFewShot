@@ -1,2 +1,2 @@
 # Group5
-20 groups of 5 shots for testing
+random few-shot for apple leaf disease detection
